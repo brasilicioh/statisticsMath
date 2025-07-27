@@ -1,5 +1,4 @@
 import re
-import re
 import csv
 
 with open("sales.txt", "r", encoding="utf-8") as file:
