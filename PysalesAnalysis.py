@@ -17,7 +17,7 @@ for index in range(len(arquivosTxt)):
             descricao = regex.search(linha).group(1).strip()
             quantidade = regex.search(linha).group(2).replace(".", "").replace(",", ".")
             total_venda = regex.search(linha).group(3).replace(".", "").replace(",", ".")
-            if descricao.split()[0] in ["CAN", "CANETA", "CANETE", "CANTETA", "MARC", "MARCADOR", "PINCEL"]:
+            if (descricao.split()[0] == "PINCEL" and descricao.split()[1] == "ATOMICO") or descricao.split()[0] in ["CAN", "CANETA", "CANETE", "CANTETA", "MARC", "MARCADOR", "CONPACTOR"]:
                 informacoes.append([descricao, float(quantidade), float(total_venda), round((float(total_venda) / float(quantidade)), 2)])
 
     with open(arquivosCsv[index], "w", newline='', encoding="utf-8") as arquivoCsv:
