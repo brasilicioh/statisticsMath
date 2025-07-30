@@ -1,12 +1,12 @@
 import re
 import csv
 
-arquivosTxt = ["Txsales.txt", "Txjan.txt", "Txfeb.txt", "Txmar.txt", "Txapr.txt", "Txmay.txt", "Txjun.txt", "Txjul.txt"]
-arquivosCsv = ["Cssales.csv", "Csjan.csv", "Csfeb.csv", "Csmar.csv", "Csapr.csv", "Csmay.csv", "Csjun.csv", "Csjul.csv"]
+arquivosTxt = ["allSales.txt", "jan.txt", "feb.txt", "mar.txt", "apr.txt", "may.txt", "jun.txt", "jul.txt"]
+arquivosCsv = ["allSales.csv", "jan.csv", "feb.csv", "mar.csv", "apr.csv", "may.csv", "jun.csv", "jul.csv"]
 
 
 for index in range(len(arquivosTxt)):
-    with open(arquivosTxt[index], "r", encoding="latin1") as arquivoTxt:
+    with open(f"txt/{arquivosTxt[index]}", "r", encoding="latin1") as arquivoTxt:
         linhas = arquivoTxt.readlines()
 
     informacoes = []
@@ -21,7 +21,7 @@ for index in range(len(arquivosTxt)):
             if (descricao.split()[0] == "PINCEL" and descricao.split()[1] == "ATOMICO") or descricao.split()[0] in ["CAN", "CANETA", "CANETE", "CANTETA", "MARC", "MARCADOR", "CONPACTOR"]:
                 informacoes.append([descricao, float(quantidade), float(total_venda), round((float(total_venda) / float(quantidade)), 2)])
 
-    with open(arquivosCsv[index], "w", newline='', encoding="utf-8") as arquivoCsv:
+    with open(f"csv/{arquivosCsv[index]}", "w", newline='', encoding="utf-8") as arquivoCsv:
         writer = csv.writer(arquivoCsv)
         writer.writerow(["Descricao", "Quantidade", "TotalVenda", "PrecoUnitario"])
         writer.writerows(informacoes)

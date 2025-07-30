@@ -1,0 +1,853 @@
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |ABECEDARIO DIVERTIDO    |     3,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |AGENDA PERMANENTE CLIFF |     1,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |ALMOFADA CARIMBO N3 AZUL|     2,000|      26,00|       0,00|     0,00
+       0|              |          |      0-00                 |ALMOFADA CARIMBO N3 PRET|     2,000|      26,00|       0,00|     0,00
+       0|              |          |      0-00                 |ALUGA-SE TAMOIO         |     5,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |ANIMAL SURP MT 2347     |     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |APAGADOR MAD QUADRO NEGR|     3,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |APAGADOR QUAD BRAN PR469|     1,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |APONT C.DEP LEOLEO RET 4|     8,000|      16,00|       0,00|     0,00
+       0|              |          |      0-00                 |APONT CLASS. LEOLEO META|     1,000|       1,30|       0,00|     0,00
+       0|              |          |      0-00                 |APONT LEOLEO RED        |     1,000|       0,50|       0,00|     0,00
+       0|              |          |      0-00                 |APONT MAPEDE PULSE      |     3,000|      13,80|       0,00|     0,00
+       0|              |          |      0-00                 |APONTADOR COM DEPOSITO F|     3,000|      17,40|       0,00|     0,00
+       0|              |          |      0-00                 |APONTADOR LEOELEO BLOCO |    11,000|      22,00|       0,00|     0,00
+       0|              |          |      0-00                 |APONTADOR SIMPLES 637 CI|     1,000|       0,60|       0,00|     0,00
+       0|              |          |      0-00                 |APRENDA EM CASA LETRA CU|     3,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |AVENTAL ESC INFAN CRISTA|     1,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |AVIAO FRICCAO PLAST     |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |AVIAO VAI E VOLTA       |     1,000|       9,50|       0,00|     0,00
+       0|              |          |      0-00                 |BALDINHO  PRAIA  14CM CO|     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |BAMBOLE                 |     2,000|      11,40|       0,00|     0,00
+       0|              |          |      0-00                 |BANHEIRA SOLAPA 233     |     1,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |BARALHO 139 COPAG       |     1,000|      27,50|       0,00|     0,00
+       0|              |          |      0-00                 |BARALHO COPAG 139NG     |     1,000|      26,00|       0,00|     0,00
+       0|              |          |      0-00                 |BARBANTE ALGODAO 550M VO|     1,000|      26,00|       0,00|     0,00
+       0|              |          |      0-00                 |BARBANTE EUROROMA 101M 4|     2,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |BARBANTE SISAL 70M      |     1,000|       8,20|       0,00|     0,00
+       0|              |          |      0-00                 |BATEDEIRA TOPI          |     1,000|      19,00|       0,00|     0,00
+       0|              |          |      0-00                 |BATERIA ELGIN           |     8,000|      34,00|       0,00|     0,00
+       0|              |          |      0-00                 |BLOCO DE ANOTACAO NOTE F|     2,000|      17,60|       0,00|     0,00
+       0|              |          |      0-00                 |BLOCO P MONTAR MT2333   |     2,000|      17,00|       0,00|     0,00
+       0|              |          |      0-00                 |BLOCO PEDIDO S COPIA1X36|    26,000|      62,50|       0,00|     0,00
+       0|              |          |      0-00                 |BOBINA SIFLER 80X40     |     5,000|      39,50|       0,00|     0,00
+       0|              |          |      0-00                 |BOBINA TERM 57X15 SILFER|    10,000|      32,50|       0,00|     0,00
+       0|              |          |      0-00                 |BOLA DE ISOPOR 100MM    |     1,000|       4,30|       0,00|     0,00
+       0|              |          |      0-00                 |BOLA DE ISOPOR 150MM    |     1,000|      10,50|       0,00|     0,00
+       0|              |          |      0-00                 |BOLA DE ISOPOR 60MM     |     1,000|       1,90|       0,00|     0,00
+       0|              |          |      0-00                 |BOLA ISOPOR 75MM KNAUF  |     3,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |BOLA STRMIX 5 GST811-817|     5,000|     110,00|       0,00|     0,00
+       0|              |          |      0-00                 |BOLA VOLEI              |     1,000|      23,00|       0,00|     0,00
+       0|              |          |      0-00                 |BOLBINA TERMICA 80X40 KP|    13,000|     104,00|       0,00|     0,00
+       0|              |          |      0-00                 |BOLHA DE SABAO 50ML     |     1,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |BOLHA SABAO SORT T4F5175|     1,000|       4,80|       0,00|     0,00
+       0|              |          |      0-00                 |BOLINHAS PARA PISCINA   |   100,000|     100,00|       0,00|     0,00
+       0|              |          |      0-00                 |BONECA C/ACESSORIOS MT21|     1,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |BONECA COZINHEIRA MT1556|     1,000|      16,00|       0,00|     0,00
+       0|              |          |      0-00                 |BONECA LUCY             |     2,000|      76,00|       0,00|     0,00
+       0|              |          |      0-00                 |BONECA MULT MIX SEREIA  |     2,000|      27,00|       0,00|     0,00
+       0|              |          |      0-00                 |BONEQUINHA DOS SONHOS   |     0,000|      10,00|       0,00|    10,00
+       0|              |          |      0-00                 |BORRACHA BCA 60 LEO LEO |     7,000|       3,50|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |BORRACHA BRANCA GRANDE F|     1,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA DIVERTIDA FANTA|     1,000|       2,00|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA FABER CASTELL T|    26,000|     105,90|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA HE40710 INTER P|     6,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA MC KIDS 40     |     1,000|       1,00|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA MERCUR CLEAN CO|     2,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA MERCUR CLEAN CO|     3,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA MERCUR DELTA   |     2,000|       5,60|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA MERCUR DUAS COR|     6,000|       7,80|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA MERCUR FLASH   |     1,000|       1,90|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA MERCUR TRCOLOR |     1,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA MIX POUCO FAREL|     1,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |BORRACHA PONTEIRA MERCUR|     8,000|       2,80|       0,00|     0,00
+       0|              |          |      0-00                 |BRINCANDO DE COLORIR    |     3,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |BRINDER CLIPS 32MM      |     3,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |BRINQUEDO DE PRAIA 3 PEC|     1,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD 1/4 BROC CD NINA 48F|     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD 1/4 BROCH LA FADINNE|     1,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD 1/4 CD + 96F LR     |     1,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD 1/4 CD D+ 48F RS    |     1,000|       6,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD BRAC UNIV CD 96FWOOF|     1,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD BROC UNIV CD COST 96|     1,000|      14,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD C DURA UNICORN I BEL|     1,000|      23,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD 1X4 FAST 200F    |     1,000|      14,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD 1X8 LIBERTY 80F  |     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD 4 ELEM 10M 160F  |     1,000|      22,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD 4 ELEM 1MAT 80F  |     2,000|      25,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD ACT 20M 320F     |     1,000|      40,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD BICYCLES 1M 80F  |     1,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD BOM D+ MASC 10 MA|     2,000|      44,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD BR 1X4 PINK 48F  |     1,000|       5,80|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD BRASI 15 300F    |     1,000|      34,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD BRASILIDADE 96F  |     2,000|      19,60|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD BROC 48F PRETO   |     1,000|       9,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD BROC 96F VERD    |     1,000|      12,90|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD BROC INIV HURRAC |     1,000|      13,80|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD BROCHU AMARELO   |     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD CART FAST 48F    |     4,000|      40,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD CLIF MASC 80F 1M |     1,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD ESP 1X4 NATURE 96|     3,000|      29,40|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD FLOWERS 10M 140F |     3,000|      51,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD FLOWERS 15M 210F |     1,000|      24,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD FLOWERS 20 MAT 28|     2,000|      62,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD LIKE IT 1M 80F   |     2,000|      26,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD LINDINHAS 1M 80F |     3,000|      38,40|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD MAXCAR 12 MAT 168|     1,000|      19,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD NATURE 20M 280F  |     1,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD PAPILIO 80F 1 MAT|     1,000|      23,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD PET 1 MAT 80F    |     2,000|      24,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD POP COLLECTION 10|     1,000|      25,00|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |CAD CD STYLE MASK 15M 24|     1,000|      32,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD UNIV D+ 96F      |     2,000|      28,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD VERDE JAND 96F   |     1,000|       7,80|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD WAY MASK 12M 192F|     1,000|      25,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD WOOF 1M 80F      |     1,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD XANIMAL 15M 210F |     3,000|      75,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD XGIRLS 1M 80F    |     2,000|      25,60|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD XMOTO 15M 210F   |     1,000|      23,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD XSPORT 15M 210F  |     1,000|      24,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD XSURFING 15M 210F|     2,000|      48,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CD XTREME 12M 240F  |     1,000|      27,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD CROCH D+ AZ 48F     |     1,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAD DESENHO ESP 40F     |     1,000|       5,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAD ESPIRAL 1X4 96F BRAS|     5,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERN ANOT VMP 8X10,5CM|     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |CADERN AT MEDIA 1X8 48F |     4,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNETA CD 7,5X10,5CM |     1,000|       9,50|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNETA CD BLACK ON WH|     3,000|      29,40|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNETA CD LUMI 1X8 96|     1,000|       9,50|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNETA WEST VILLAGE 1|     1,000|      12,50|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO 1/4 96FLS FAST  |     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO 10 MAT 140FLS BI|     1,000|      17,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO 10MAT 140FLS NAT|     1,000|      17,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO 96F AZU CD TILIB|     2,000|      26,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO BRASILI 1X4 48F |     6,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD 1/4 ESP 200F |     2,000|      28,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD 10MAT 160FLS |     1,000|      22,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD 10MAT 160FLS |     2,000|      45,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD ARMT 15M 240F|     2,000|      64,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD ARMY 1M 80F J|     2,000|      27,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD ARMY MASK 10M|     1,000|      22,50|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD BROCH PRE 96 |     1,000|      12,80|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD FAST 15M 240F|     1,000|      32,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD FAST 20M 320F|     1,000|      40,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD FEMME 15M 240|     1,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD FEMME 1M 80F |     2,000|      27,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD GAMER 15M 240|     1,000|      32,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD GIRL 1M 80F J|     2,000|      27,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO CD MASK 10M 160F|     1,000|      22,50|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO D+ CD 1/4 48FLS |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO DE BOLSO        |    30,000|      36,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO DE DESENHO CARTO|     2,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO DE MUSICA 40F   |     1,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNO PEQUENO PATATI P|     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADERNOA CD 10MAT FAST 1|     2,000|      45,00|       0,00|     0,00
+       0|              |          |      0-00                 |CADRENO CD FAST 1M 80F J|     1,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAIXA DE SORVETE 0,75L  |     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |CALCULADORA KENKO KK-119|     4,000|      70,00|       0,00|     0,00
+       0|              |          |      0-00                 |CALIGRAFIA 1            |     1,000|       1,80|       0,00|     0,00
+       0|              |          |      0-00                 |CALIGRAFIA DIVERTIDA LET|     1,000|       4,00|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |CALIGRAFIA DIVERTIDA NUM|     1,000|       3,90|       0,00|     0,00
+       0|              |          |      0-00                 |CAM HORANGER CLAS CONST |     1,000|      22,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAMIAO AMAR E PRAIA     |     1,000|      11,50|       0,00|     0,00
+       0|              |          |      0-00                 |CAN FA                  |     9,000|      15,30|       0,00|     0,00
+       0|              |          |      0-00                 |CAN GEL MOLIM METALICA P|     2,000|      16,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANET BIC CRIST BOLD 1.6|     3,000|       6,60|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC 4 CORES      |    10,000|      94,60|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CELEBRATIO PR|     1,000|       6,70|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CELEBRATION A|     3,000|      20,10|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL 1.6 A|     8,000|      17,60|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL 1.6 P|     2,000|       4,40|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL AZ   |    36,000|      43,20|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|    56,000|      55,50|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRIT|     6,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRITO|     5,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL PRETA|    38,000|      45,60|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|     3,000|       5,10|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRAA|     3,000|       6,80|       0,00|     1,70
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA1|     1,000|       1,70|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL VERDE|     3,000|       3,60|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL VERME|     7,000|       8,40|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC SHIMMERS FASH|     5,000|      11,50|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA COMPACTOR  07 VER|     5,000|       7,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA COMPACTOR 07 AZUL|    14,000|      16,80|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA COMPACTOR 07 PRET|     1,000|       1,20|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA COMPACTOR 07B 1,2|     4,000|       5,60|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA COMPACTOR AZUL 1,|     3,000|       4,20|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA COMPACTOR ECONOMI|    21,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA COMPACTOR MICROLI|     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA COMPACTOR MICROLI|     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA COMPACTOR TOP 200|     2,000|       2,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA CORRETIVO BRW 9ML|     2,000|      14,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA FABER CASTELL PRE|     6,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA MOLIN  GEL NET OU|     1,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA PILOT FINE AZ 07 |     4,000|      15,20|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA PILOT FINE VERM 0|     1,000|       3,80|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA PILOT MEDIA PR M |     1,000|       3,80|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA PONTA FINA TOK 10|     1,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA QUE APAGA  FRIXIO|     1,000|      19,80|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA WAVE CIS 4ML     |     1,000|       9,20|       0,00|     0,00
+       0|              |          |      0-00                 |CANETE CIS SPIRO 07MM SO|    21,000|      83,60|       0,00|     3,80
+       0|              |          |      0-00                 |CANTETA BIC F ENEM      |    10,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |CAPA MDE CHUVA INFANTIL |     1,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |CARBONO P/ TECIDO CORES |     1,000|       2,50|       0,00|     0,00
+       0|              |          |      0-00                 |CARBONO PARA MANUSCRITO |    25,000|      18,75|       0,00|     0,00
+       0|              |          |      0-00                 |CARBONO PARA MAQUINA PRE|     4,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |CARNE GPS SIDGRAPH      |     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |CARRINHA P/ BONECA LUMMA|     1,000|      50,00|       0,00|     0,00
+       0|              |          |      0-00                 |CARRO FRICCAO           |     1,000|      11,50|       0,00|     0,00
+       0|              |          |      0-00                 |CARRO HOT SPEED SPK     |     1,000|      14,00|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |CARRUAGEM ENCANTADA MT24|     1,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |CARTOLINA COLOR SET CORE|    75,000|     120,00|       0,00|     0,00
+       0|              |          |      0-00                 |CARTOLINA COMUM CORES   |   149,000|     193,70|       0,00|     0,00
+       0|              |          |      0-00                 |CARTOLINA COMUM VERDE 48|     4,000|       3,04|       0,00|     0,00
+       0|              |          |      0-00                 |CARTOLINA GUA CORES     |    21,000|      48,30|       0,00|     0,00
+       0|              |          |      0-00                 |CARTOLINA LAMINADO CORES|     3,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |CASTELINHO DOS SONHOS MT|     1,000|      32,00|       0,00|    16,00
+       0|              |          |      0-00                 |CD ELGIN                |     1,000|       2,00|       0,00|     0,00
+       0|              |          |      0-00                 |CHAMEQUINHO A4 100F BCO |    18,000|     151,20|       0,00|     0,00
+       0|              |          |      0-00                 |CHOCALHO TOK KIDS       |     1,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |CLIPES 3X0 ACC          |     2,000|       9,60|       0,00|     0,00
+       0|              |          |      0-00                 |CLIPES ACC 4X0          |     3,000|      14,90|       0,00|     0,00
+       0|              |          |      0-00                 |CLIPES CRACHA           |     7,000|       8,40|       0,00|     0,00
+       0|              |          |      0-00                 |CLIPS 8/0 CHAPARRAU 25UN|     2,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |CLIPS ACC 2/0 C/100     |     9,000|      49,00|       0,00|     4,90
+       0|              |          |      0-00                 |CLIPS ACC 50 UN 6/0     |     1,000|       7,20|       0,00|     0,00
+       0|              |          |      0-00                 |CLIPS BINDER 51MM       |     1,000|       3,50|       0,00|     0,00
+       0|              |          |      0-00                 |CLIPS COLOR CHAPARRAU 2/|     1,000|       7,00|       0,00|     0,00
+       0|              |          |      0-00                 |COL COLOR KOALA 25G     |     1,000|       2,50|       0,00|     0,00
+       0|              |          |      0-00                 |COLA BAST TRIS 10G      |     1,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA BASTAO 10G LE0 LE0 |     3,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |COLA BASTAO BAZZE 10G   |     4,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA BASTAO SCOT COMPAC |     2,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA BRANCA BAMBINI 90G |     2,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA BRANCA KOALA 500G  |     1,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |COLA BRANCA KOALA 90G   |     3,000|      11,70|       0,00|     0,00
+       0|              |          |      0-00                 |COLA BRANCA MAX COLA 90G|     1,000|       3,50|       0,00|     0,00
+       0|              |          |      0-00                 |COLA COALA 40G          |    17,000|      37,40|       0,00|     0,00
+       0|              |          |      0-00                 |COLA DE CONTATO BRASCOLP|     2,000|      19,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA DE CONTATO BRASCOPL|     1,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA DO ARTESAO SILICONE|     1,000|       7,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA ESC BAST TRIS 40G  |     1,000|      11,50|       0,00|     0,00
+       0|              |          |      0-00                 |COLA ISOPOR BAMBINI 40G |     2,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA ISOPOR BAMBINI 90G |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA ISOPOR EVA 40G QUIN|     5,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA ISOPOR EVA KOALA 90|     1,000|       7,80|       0,00|     0,00
+       0|              |          |      0-00                 |COLA JEANS ACRILEX 20G  |     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA PANO ACRILEX 35G   |     1,000|       6,50|       0,00|     0,00
+       0|              |          |      0-00                 |COLA QUENTE BASTAO FINO |    47,000|      47,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA QUENTE BASTAO GROS |     1,000|       2,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA RENDBOND 1 20G     |     2,000|      17,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA SILICONE 100G RENDI|     3,000|      27,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA SILICONE LIQ 50G RE|     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |COLA TEK BOND A793      |     6,000|      76,80|       0,00|     0,00
+       0|              |          |      0-00                 |COMP ESC LEOELEO PASTEL |     1,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |COMPASSO ESCOLAR METAL S|     1,000|       8,40|       0,00|     0,00
+       0|              |          |      0-00                 |CONFETEMANIA 100G       |     2,000|       7,90|       0,00|     0,00
+       0|              |          |      0-00                 |CONHECENDO AS VOGAIS 2  |     2,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |CONTRATO DE LOCACAO ANIM|    12,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |CORANTE TUPY CORES      |     8,000|      35,60|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |CORRETIVO BIC A BASE DE |     5,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |CORRETIVO FITA MASTER   |     3,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |CORRETIVO MERCUR18ML    |     3,000|      12,60|       0,00|     0,00
+       0|              |          |      0-00                 |CORRETIVO TOQUE MAGICO  |     3,000|      14,40|       0,00|     0,00
+       0|              |          |      0-00                 |CRACHA HORIZONTAL ACP   |     4,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |CRAMPO GALV 26X6 MAIS C |    10,000|      90,00|       0,00|     0,00
+       0|              |          |      0-00                 |CRTAZ VENDE SIDGRAF     |     5,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |CRUZADINHA DE VOGAIS    |     1,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |DINHEIRINHO             |     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |DUREX FIT PEL  12X10    |     6,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |DUREX FITIPEL 25X50     |     1,000|       4,80|       0,00|     0,00
+       0|              |          |      0-00                 |DUREX FITPEL 12MMX20M TR|    13,000|      20,80|       0,00|     0,00
+       0|              |          |      0-00                 |DUREX FITPEL 45MM X 40  |     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |DUREX QUALITAPE 24X50   |     2,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |DUREX TRANSP 5802 45MMX4|     7,000|      66,50|       0,00|     0,00
+       0|              |          |      0-00                 |ELASTICO MERCUR 100UND S|     1,000|       7,80|       0,00|     0,00
+       0|              |          |      0-00                 |ELIT VAN POLIC RESG AMB |     2,000|      40,00|       0,00|     0,00
+       0|              |          |      0-00                 |ENF CORACAO ASH820062   |     1,000|      24,00|       0,00|    12,00
+       0|              |          |      0-00                 |ENV.C.VISITA 72X108MM C/|    20,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |ENV.CARTA 114X162MM C/10|    10,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |ENV.CARTA 114X162MM C/10|     8,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |ENVEL BRANCO 17X25 SOF 7|     6,000|       3,60|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE  OURO 17X25    |     1,000|       0,60|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE 26X36 OURO     |     1,000|       1,20|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE CARTA          |    35,000|      10,50|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE CARTA 11X16 SRP|    34,000|       6,70|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE CARTA 14X16 SCR|     1,000|       0,75|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE CARTA 7X10CM SC|     7,000|       2,80|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE KRAFT NATURAL 2|     2,000|       1,60|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE KRAFT OURO 11X1|     2,000|       0,60|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE P CD BRANCO    |     1,000|       0,30|       0,00|     0,00
+       0|              |          |      0-00                 |ENVELOPE SACO OURO 22X32|    55,000|      44,00|       0,00|     0,00
+       0|              |          |      0-00                 |ESCALIMETRO 30C MAXCRIL |     1,000|      28,50|       0,00|     0,00
+       0|              |          |      0-00                 |ESFERA DE VIDRO COMUM   |    20,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |ESPELHO OVAL MOLDURA    |     2,000|      57,00|       0,00|     0,00
+       0|              |          |      0-00                 |ESPELHO REDONDO 18X18   |     1,000|      14,50|       0,00|     0,00
+       0|              |          |      0-00                 |ESPELHO RETANGULAR N12  |     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |ESPETO  C/50 CHRRASCO BA|     1,000|       5,50|       0,00|     0,00
+       0|              |          |      0-00                 |ESTILET BAZZE ESTREITA B|     4,000|       9,60|       0,00|     0,00
+       0|              |          |      0-00                 |ESTILETE 18MM           |     1,000|       3,80|       0,00|     0,00
+       0|              |          |      0-00                 |ESTILETE CIS GRANDE     |     1,000|       5,80|       0,00|     0,00
+       0|              |          |      0-00                 |ESTOJO ESCOLAR MULT MIX |     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |ESTOJO ESCOLAR TOKHOUSE |     1,000|       7,00|       0,00|     0,00
+       0|              |          |      0-00                 |ETIQUETA MX21X12        |     4,000|      11,20|       0,00|     0,00
+       0|              |          |      0-00                 |ETIQUETA PIMA 6185      |     1,000|       1,70|       0,00|     0,00
+       0|              |          |      0-00                 |ETIQUETA PIMACO 6181    |     1,000|       1,70|       0,00|     0,00
+       0|              |          |      0-00                 |ETIQUETA PIMACO 6187    |     3,000|       5,10|       0,00|     0,00
+       0|              |          |      0-00                 |ETIQUETA PIMACO A 4262 C|     3,000|       5,10|       0,00|     0,00
+       0|              |          |      0-00                 |EVA 40X48  5 MM CORES IB|     3,000|      40,50|       0,00|     0,00
+       0|              |          |      0-00                 |EVA 40X48GLITER CORES GL|     2,000|      12,00|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |EVA 40X60 CORES         |     3,000|      14,00|       0,00|     3,50
+       0|              |          |      0-00                 |EVA CORES 40X48 PEQUENO |    40,000|     120,00|       0,00|     0,00
+       0|              |          |      0-00                 |EVA CORES 4OX30CM DUBFLE|    24,000|      33,60|       0,00|     0,00
+       0|              |          |      0-00                 |EVA GLITER CORES TOK KID|    13,000|      75,40|       0,00|     0,00
+       0|              |          |      0-00                 |F P CRACHA PRISILHA PTA |     1,000|       3,50|       0,00|     0,00
+       0|              |          |      0-00                 |FAIXA E MUNHEQUEIRA COPA|     1,000|       5,50|       0,00|     0,00
+       0|              |          |      0-00                 |FICHA PAUTAD N2 4X6 SXD |     1,000|      11,50|       0,00|     0,00
+       0|              |          |      0-00                 |FITA  MASK CREPE  24X50 |     4,000|      38,00|       0,00|     0,00
+       0|              |          |      0-00                 |FITA ADELB DUP FACE 18X3|     2,000|      25,60|       0,00|     0,00
+       0|              |          |      0-00                 |FITA ADELBRAS 18X10     |     6,000|      13,20|       0,00|     0,00
+       0|              |          |      0-00                 |FITA ADESIVA TALGE 4845 |    23,000|     133,40|       0,00|     0,00
+       0|              |          |      0-00                 |FITA CETIM - 01 CORES CI|     3,000|       9,90|       0,00|     0,00
+       0|              |          |      0-00                 |FITA CETIM - 02 CORES   |     1,000|       3,70|       0,00|     0,00
+       0|              |          |      0-00                 |FITA CORRETIVA JOCAR 10X|     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |FITA CREPE  COND 24X50  |     2,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |FITA CREPE 18X50 CONDOR |     3,000|      22,50|       0,00|     0,00
+       0|              |          |      0-00                 |FITA CRISTAL FIT PEL 48X|     4,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |FITA DUPA FACE ESPUMA 24|     1,000|      12,50|       0,00|     0,00
+       0|              |          |      0-00                 |FITA DUPLA FACE DE PAPEL|     1,000|       9,50|       0,00|     0,00
+       0|              |          |      0-00                 |FITA DUPLA FACE ESPUMA  |     2,000|      16,70|       0,00|     0,00
+       0|              |          |      0-00                 |FITA DUPLA FACE FITIPEL |     1,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |FITA DUPLA FACE VERDE 19|     6,000|      40,80|       0,00|     0,00
+       0|              |          |      0-00                 |FITA EMPAC QUALITAPE 48M|     2,000|      15,60|       0,00|     0,00
+       0|              |          |      0-00                 |FITA KRAFT FITPEL 38MMX1|     1,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |FITA LACO MAGIC         |     9,000|      10,00|       0,00|     1,00
+       0|              |          |      0-00                 |FITA METRICA 1,5MTS BRW |     1,000|       7,00|       0,00|     0,00
+       0|              |          |      0-00                 |FITA P CRACHAR C PRISILH|     5,000|      17,50|       0,00|     0,00
+       0|              |          |      0-00                 |FITA SCOTCH 24X50       |     1,000|      36,00|       0,00|     0,00
+       0|              |          |      0-00                 |FITAQ EMP GATTE 45X40   |     3,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |FITILHO 5X50 CORES      |     2,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |GIZ COLORIDO C/64 DELTA |     1,000|       6,30|       0,00|     0,00
+       0|              |          |      0-00                 |GIZ DE CERA KOALA 6UN 24|     2,000|       4,80|       0,00|     0,00
+       0|              |          |      0-00                 |GIZ ESCOLAR BRANCO DELTA|     6,000|      31,80|       0,00|     0,00
+       0|              |          |      0-00                 |GIZAO DE CERA KOALA     |     3,000|      26,40|       0,00|     0,00
+       0|              |          |      0-00                 |GLITER ESCOLAR ESTRELIN |     1,000|       1,50|       0,00|     0,00
+       0|              |          |      0-00                 |GLITER NYBC CORES       |     6,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |GPS  CARNE TAMOIO       |    11,000|      60,50|       0,00|     0,00
+       0|              |          |      0-00                 |GRAMP BAZZE 25F B5325   |     2,000|      65,00|       0,00|     0,00
+       0|              |          |      0-00                 |GRAMPEADOR BAZZE 25F B53|     1,000|      22,00|       0,00|     0,00
+       0|              |          |      0-00                 |GRAMPEADOR BAZZE B5945P |     2,000|      33,00|       0,00|     0,00
+       0|              |          |      0-00                 |GRAMPEADOR METAL BRW MED|     1,000|      23,50|       0,00|     0,00
+       0|              |          |      0-00                 |GRAMPEADOR MINI BAZZE B5|     2,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |GRAMPO CABELO PRETO N5  |     4,000|       0,60|       0,00|     0,00
+       0|              |          |      0-00                 |GRAMPO JOCAR COB 26X6 C |     3,000|      12,00|       0,00|     3,00
+       0|              |          |      0-00                 |GRAMPO JOCAR GALV 26X6 C|     7,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |GRAMPOS BRW 1.000       |     2,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |GRAMPOS GALVANIZADOS BRW|     2,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |GUARDACHUVA             |     8,000|     200,00|       0,00|     0,00
+       0|              |          |      0-00                 |GUARDACHUVA 6606/6607   |     2,000|      50,00|       0,00|     0,00
+       0|              |          |      0-00                 |GUARDACHUVA 6608        |     4,000|     115,00|       0,00|    23,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |GUARDACHUVA AUTOMATIC /6|     1,000|      23,00|       0,00|     0,00
+       0|              |          |      0-00                 |HORA  PESCARIA MT2407   |     1,000|      16,50|       0,00|     0,00
+       0|              |          |      0-00                 |INSTRUM MUSICAL SAXOFONE|     1,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |INSTRUMENTO MUSICAL TOK |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |ISOPOR 10MM             |     8,000|      38,40|       0,00|     0,00
+       0|              |          |      0-00                 |ISOPOR 15MM             |     1,000|       7,20|       0,00|     0,00
+       0|              |          |      0-00                 |ISOPOR 20MM             |     1,000|       8,60|       0,00|     0,00
+       0|              |          |      0-00                 |ISOPOR 25MM             |     5,000|      56,00|       0,00|     0,00
+       0|              |          |      0-00                 |ISOPOR 30MM             |     5,000|      69,50|       0,00|     0,00
+       0|              |          |      0-00                 |ISOPOR 5MM              |    24,000|      52,70|       0,00|     0,00
+       0|              |          |      0-00                 |ISQUEIRO BIC MAXI       |     1,000|       7,20|       0,00|     0,00
+       0|              |          |      0-00                 |JOGO BOTAO FUT 741      |     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |JOGO LETRAS 841         |     1,000|      10,80|       0,00|     0,00
+       0|              |          |      0-00                 |KIMELEKA                |     9,000|      98,10|       0,00|     0,00
+       0|              |          |      0-00                 |KIT BELEZA MT0540 PLAY S|     1,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |KIT CAR TOK KIDS 4P MT14|     3,000|      42,00|       0,00|     0,00
+       0|              |          |      0-00                 |KIT COZINHA KITCHEN     |     1,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |KIT GRAMPEADOR MINI C/GR|     1,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |KIT MEDICO TOK MT1124   |     1,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |KIT MILITAR MT1194      |     1,000|      12,50|       0,00|     0,00
+       0|              |          |      0-00                 |LACO FACIL DECORATIVO 18|    13,000|       9,75|       0,00|     0,00
+       0|              |          |      0-00                 |LANCA BOLHAS TUBES      |     1,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |LANCA DARDO TOK MT 2207 |     1,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |LANCHEIRA F8            |     1,000|      45,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS CERA CHOCOLIX GIZA|     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS CERA MASTER GIZ C/|     2,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS COMUM FABER CASTEL|     2,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS COR ACRILEX G     |     3,000|      40,50|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS COR BIC PREMIUM KI|     3,000|      49,50|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS COR COLORPEP INFT |     2,000|      37,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS COR GATTE KIDS C/1|     2,000|      23,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS COR LEO LEO       |     1,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS COR LEO&LEO LONG S|     5,000|      32,50|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS DE COR FC ECOLAPIS|     2,000|      39,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS DE COR G 12CORES P|     3,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS DE COR LEO LEO MIN|     3,000|      11,10|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS DE COR LEOLEO 4449|     1,000|      17,50|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS FABER CASTELL 2B R|     1,000|       4,25|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS FABER CASTELL 4B  |     2,000|       7,80|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS FABER CASTELL 6B  |     5,000|      23,50|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS GRAF BAZZE TABUADA|     1,000|       1,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS GRAF BIC EVO HEX 9|     3,000|       2,70|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS GRAF BIC REDO EVOL|     8,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS GRAF C/BOR PEROL  |     1,000|       1,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS GRAF C/BORRACHA DO|     6,000|       7,20|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS GRAF LEOLEO CB0R P|     1,000|       1,20|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS GRAFIT BIC EVOL C |     6,000|       8,40|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS GRAFITE CON BORRAC|    53,000|      39,75|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS GRAFITE LEOLEO N2 |     1,000|       0,60|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS HB S2 BRW         |     3,000|       3,60|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |LAPIS HIDROCOR LEOLEO C/|     2,000|       7,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS HIDROCOR NEO PENPE|     1,000|      11,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS HIDROCOR PLANETA 1|     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS MULTICOLOR GRANDE |     2,000|      26,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIS PRETP HB TABUADA  |    12,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPISEIRA BRW CLIP 0,7MM|     2,000|       4,60|       0,00|     0,00
+       0|              |          |      0-00                 |LAPISEIRA BRW TEC DEGRAD|     4,000|      40,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPISEIRA CRISTAL 2.0   |     3,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPISEIRA TOM PASTEL BRW|    12,000|      57,80|       0,00|     0,00
+       0|              |          |      0-00                 |LAPISEIRA TRIANG OFF 09 |     5,000|      40,00|       0,00|     0,00
+       0|              |          |      0-00                 |LAPIZEIRA BRW 07 TOM PAS|     1,000|       3,50|       0,00|     0,00
+       0|              |          |      0-00                 |LEQUE HZ040007          |     5,000|      42,50|       0,00|     0,00
+       0|              |          |      0-00                 |LER E COLORIR CLASSICO  |     1,000|       5,50|       0,00|     0,00
+       0|              |          |      0-00                 |LIGA SUP AMARELA N18 500|     1,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |LINHA CORRENTE CORES    |     1,000|       2,40|       0,00|     0,00
+       0|              |          |      0-00                 |LINHA MAGNA CORES       |     1,000|       2,00|       0,00|     0,00
+       0|              |          |      0-00                 |LIV  APRE . E INCRIVEL P|     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |LIV ATAS TILIBRA 100F   |     2,000|      44,00|       0,00|     0,00
+       0|              |          |      0-00                 |LIV MANDALAS UM MUNDO DE|     1,000|      11,80|       0,00|     0,00
+       0|              |          |      0-00                 |LIV TRIN A ESC LET MAIUS|     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO 365 DESENHOS DE CO|     3,000|      49,50|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO 365 DINOSAUROS    |     2,000|      33,00|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO APREDER CALIGRAFIA|     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO APRENDENDO EM CASA|     2,000|       3,80|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO APRENDER CALIGRAFI|     3,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO ATA 100F GAFSET   |     0,000|      14,60|       0,00|    14,60
+       0|              |          |      0-00                 |LIVRO CALIGRAFIA INCRIVE|     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO DE CALIGRAFIA SORT|     7,000|      24,50|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO FESTA DAS CORES   |    17,000|      34,00|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO KIT DE PINT DO ART|     2,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |LIVRO UM TOQUE DE COR UN|     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |LOUSA MAG CASINHA 10X13 |     1,000|       5,80|       0,00|     0,00
+       0|              |          |      0-00                 |LOUSA MAGICA MT1926     |     1,000|      11,50|       0,00|     0,00
+       0|              |          |      0-00                 |MAPA DA R NORDESTE POLIT|     1,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |MAPA DO MUNDO           |     1,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |MAPA DO RN              |     1,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARC PILOT QUAD BCO C RE|     1,000|      16,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCA TEXTO BAZZE LARANJ|     2,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCA TEXTO BRW AZUL    |     1,000|       2,50|       0,00|     0,00
+       0|              |          |      0-00                 |MARCA TEXTO BRW GEL ROSA|     2,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCA TEXTO BRW VERDE   |     2,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCA TEXTO BRW VERDE LI|     5,000|      12,50|       0,00|     0,00
+       0|              |          |      0-00                 |MARCA TEXTO BRW VERMELHO|     2,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCA TEXTO GEL BRW AM  |     4,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCA TEXTO LUMINI CIS P|     2,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR CD E DVD 1.0 AZ|     1,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR CD E DVD PILOTO|     5,000|      31,10|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR CD PONTA FINA 1|     2,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR CD RETO PROJETO|     1,000|       4,50|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR CDXDVD PILOT 2.|     5,000|      31,50|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |MARCADOR P/ QUADRO BRANC|     4,000|      43,50|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR PERMANENTE PILO|     4,000|      27,60|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR PONTA DUPLA AZ |     3,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR QUADRO BRANCO B|     3,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR QUADRO BRANCO B|     3,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR QUADRO BRANCO V|     1,000|       7,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROGETOR |     1,000|       9,50|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |     5,000|      22,50|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR1 |    17,000|     105,40|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR2 |    11,000|      68,20|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR3 |     2,000|      12,40|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR TECIDO AZ ACRIL|     1,000|      10,30|       0,00|     0,00
+       0|              |          |      0-00                 |MASSA BIS PORT LAP      |     2,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |MASSA BISCUIT 90G POLYCO|     2,000|      17,00|       0,00|     0,00
+       0|              |          |      0-00                 |MASSA DE MODELAR ACRILEX|     1,000|       4,50|       0,00|     0,00
+       0|              |          |      0-00                 |MASSA DE MODELAR KOALA G|     9,000|      63,00|       0,00|     0,00
+       0|              |          |      0-00                 |MASSA DE MODELAR KOALA P|     7,000|      27,30|       0,00|     0,00
+       0|              |          |      0-00                 |MASSA MODELAR DIVER CORE|     5,000|      22,50|       0,00|     0,00
+       0|              |          |      0-00                 |MASSA MODELAR PLASTILIN |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |MASSINAHA DE MODELAR 180|     6,000|      64,80|       0,00|     0,00
+       0|              |          |      0-00                 |MASSINHA DE MODELAR SOFT|     1,000|       4,50|       0,00|     0,00
+       0|              |          |      0-00                 |MEDICAL SET 410 KIT     |     2,000|      27,00|       0,00|     0,00
+       0|              |          |      0-00                 |MEU 1 GIZ ACRILEX G 6UN |     1,000|      27,50|       0,00|     0,00
+       0|              |          |      0-00                 |MINA  GRAFT LEO E LEO 0,|     1,000|       2,00|       0,00|     0,00
+       0|              |          |      0-00                 |MINA GRAFITE LEOLEO 07MM|     8,000|      28,00|       0,00|     0,00
+       0|              |          |      0-00                 |MINA GRAPHITE TRIS 2.0  |    10,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |MINA PILOT 07 2B C/12   |     3,000|      14,40|       0,00|     0,00
+       0|              |          |      0-00                 |MINAS FABER CASTELL 0,9 |     2,000|      10,80|       0,00|     0,00
+       0|              |          |      0-00                 |MINAS GRAFITE LEOELEO 0,|     2,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |MINI FROTA BOIADERO     |     1,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |MINI FUSCA              |     1,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |MINI ROBO GUERREIROS LEN|     2,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |MOCHILA SEANITE M140506 |     1,000|      55,00|       0,00|     0,00
+       0|              |          |      0-00                 |MOCHILA WINCY FEM BPG318|     1,000|      40,00|       0,00|     0,00
+       0|              |          |      0-00                 |MOLA MALUCA 2601        |     3,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |MOLHA DEDO WALEU        |     1,000|       5,20|       0,00|     0,00
+       0|              |          |      0-00                 |MOTINHO 3P 501          |     3,000|      24,60|       0,00|     0,00
+       0|              |          |      0-00                 |MOVIMENTO DE CAIXA OF SD|     1,000|      19,80|       0,00|     0,00
+       0|              |          |      0-00                 |MOVOMENTO DE CAIXA PEQ A|     3,000|      27,00|       0,00|     0,00
+       0|              |          |      0-00                 |NOTA NEUTRA C COPIA SIDG|     2,000|       6,40|       0,00|     0,00
+       0|              |          |      0-00                 |NOTA NEUTRA S COPIA 1X18|     4,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |NOTA NEUTRA S/C 1/36 100|     1,000|       2,50|       0,00|     0,00
+       0|              |          |      0-00                 |NOTA PRO                |     1,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |NOTA PROMISSORIA PED ANI|     5,000|      12,50|       0,00|     0,00
+       0|              |          |      0-00                 |NOTE FIX 4CORES 38X50MM |     5,000|      49,00|       0,00|     0,00
+       0|              |          |      0-00                 |PALITO PICOLE JUNCO RED |     3,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |PANDEIROLA 335          |     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |PANELINHA C TAMPA       |     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL                   |    12,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL CAMUCA CORES      |     3,000|       7,20|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |PAPEL CANSON 300GM      |     1,000|       3,50|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL CARBONO DUPLA FACE|     2,000|       1,50|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL CELOFONE CORES    |    15,000|      22,50|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL CONTATO 45X1M TRAN|    16,000|      72,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL CONTATO CORES     |     9,000|      73,80|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL CREPOM            |    32,000|      64,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL CREPOM ENCERADO   |     1,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL CREPOM ROXO       |     5,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL CREPOM VERDE BANDE|     1,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL DESENHO CANSON    |     1,000|       1,70|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL ECORES 75G CRIATIV|     8,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL FOTO A4 130G C/ADE|    35,000|      35,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL FOTOGRAFICO A4 180|    34,000|      27,20|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL GLOSSY TOK 135G AD|     4,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL JANDAINHA PESO 60 |     4,000|      66,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL JANDAINHA SORTIDAS|     3,000|      45,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL KRAFT             |    24,000|      37,50|       0,00|     1,50
+       0|              |          |      0-00                 |PAPEL LAMINADO CORES    |     3,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL MADEIRA           |    10,000|      16,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL MICRO ONDULADO COR|     1,000|       5,30|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL MILIM CANSON A3   |     2,000|       1,70|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL NACARADO 70X100 FU|     2,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL PARANA VMP 80X100 |     4,000|      39,20|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL PAUTADO           |    17,000|       5,10|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL PESO 40 120KG CHAM|     4,000|      50,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL PESO 60 180KG CHAM|     1,000|      16,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL PRESENTE SORTIDOS |     9,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL REPORTE 500 F     |    40,000|   1.140,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL SEDA 48X60 CORES  |    30,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |PAPEL VEGETAL CANSON    |     5,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |PARQUE DIVERSOES MT2340 |     2,000|      25,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA  1/2 OF DAC FUME 2|     1,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA 1X2OF LIL DAC 2CM |     1,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA 55MM AM DAC       |     2,000|      17,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA 55MM VD DAC       |     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA AZ DAC 4CM        |     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA AZ DAC 55MM       |     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA MINI SOFT 16|     5,000|      19,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA MINI VERDE  |     3,000|      11,40|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA OFICIO  1602|    11,000|      44,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA OFICIO 40MM |     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA OFICIO SOFT |     2,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA OFICIO SOFT |     3,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA OFICIO SOFT |     6,000|      24,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA OFICIO SOFT |     4,000|      16,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA OFICIO VERDE|     2,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C ABA OFICIO VERME|     2,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C FERRAGEM POLIBRA|     1,000|       3,90|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA C FERRAGEM SOFT CR|     2,000|       7,80|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA CATALOGO C30 POLIB|     2,000|      40,00|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |PASTA L CRISTAL 0957    |     3,000|       4,50|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA LILAZ 55MM DAC    |     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA MINI 20MM SOFT - C|     1,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA MULT-USO C/ZIPER A|     1,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA NEW LINE L A4 FUME|     1,000|       1,50|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA NEW LINE SANF VM  |     1,000|      25,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA OFICIO 18MM SOFT -|     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA OFICIO 18MM SOFT -|     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA OFICIO 18MM SOFT -|     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA OFICIO 18MM SOFT -|     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA PORTA CHEC AZUL   |     1,000|      19,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA PORTA CHEQUE FUME |     1,000|      19,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA SAFON POLIB CRIST |     1,000|      25,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA SANFONADAS FUME 12|     1,000|      25,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA SOFT 30MM AZUL    |     1,000|       6,50|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA SONFONADA AZUL 12D|     1,000|      25,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA SUSPENSA MARMORISA|     6,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |PASTA ZIP BAP 23 X 11   |     1,000|       4,50|       0,00|     0,00
+       0|              |          |      0-00                 |PEDIDO COM COPIA AZUL SD|     4,000|      10,00|       0,00|     0,00
+       0|              |          |      0-00                 |PERFURADOR BAZZER B6210 |     1,000|      16,00|       0,00|     0,00
+       0|              |          |      0-00                 |PERFURADOR BRW 1 F      |     1,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |PIAO C/LANCADOR 20CM MT1|     1,000|       5,80|       0,00|     0,00
+       0|              |          |      0-00                 |PICK UP RX SPORT1172    |     1,000|      29,50|       0,00|     0,00
+       0|              |          |      0-00                 |PILHA ALCALI AAA P0WER P|     2,000|       9,60|       0,00|     0,00
+       0|              |          |      0-00                 |PILHA PANASONIC AA      |    13,000|      20,50|       0,00|     0,00
+       0|              |          |      0-00                 |PILHA PANASONIC AA ALCAL|     1,000|       4,50|       0,00|     0,00
+       0|              |          |      0-00                 |PILHA PANASONIC AAA PALI|    23,000|      43,00|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL ARTISTICOS CONDOR|     1,000|      10,80|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL ATOMICO BIC RECAR|     2,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL ATOMICO BIC RECAR|     8,000|      36,00|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL ATOMICO BIC RECAR|     5,000|      22,50|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR 115 N 10  |    10,000|      39,00|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR 115 N 12 E|     4,000|      17,00|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR 115 N 20  |     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR 409 - 000 |     1,000|      10,80|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR 456 N 4   |     1,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR N� 14 115 |     3,000|      13,70|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR N4 115    |     1,000|       3,40|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR No 0 115  |     1,000|       2,80|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR No 16  115|     2,000|      11,60|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR No 2 115  |     7,000|      20,30|       0,00|     0,00
+       0|              |          |      0-00                 |PINCEL CONDOR No 6 115  |     1,000|       3,60|       0,00|     0,00
+       0|              |          |      0-00                 |PISTOLA  JOC            |     1,000|      23,50|       0,00|     0,00
+       0|              |          |      0-00                 |PLASTICO BOLHA 1,30CM   |     5,000|      17,50|       0,00|     0,00
+       0|              |          |      0-00                 |PORT QUAD CNPJ VERT     |     5,000|      42,50|       0,00|     0,00
+       0|              |          |      0-00                 |PORT QUAD HORARIO HORIZ |     1,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |PORTA CRACHAHORIZONTAL X|     7,000|      13,30|       0,00|     0,00
+       0|              |          |      0-00                 |POTE SANREMO FACIL      |     1,000|       4,00|       0,00|     0,00
+       0|              |          |      0-00                 |PRANCHETA A4 PRENDEDOR P|     4,000|      44,00|       0,00|     0,00
+       0|              |          |      0-00                 |PRANCHETA A5 118.0      |     2,000|      20,00|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |PRANCHETA MAIS A4 ACRILI|     1,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |PRANCHETA OFICIO A4-105 |     3,000|      34,50|       0,00|     0,00
+       0|              |          |      0-00                 |PROTETOR DE DOC VEIC 85X|     9,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |PROTETOR DOC 75X105     |     5,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |PROTETOR DOCUMENTO 65X90|     5,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |PULVARIZADOR SANREMO CR |     1,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |QUADRO BRANCO M.MADEIRA |     1,000|      43,00|       0,00|     0,00
+       0|              |          |      0-00                 |QUADRO NEGRO/VERDE 40X30|     1,000|      21,00|       0,00|     0,00
+       0|              |          |      0-00                 |QUADRO VERDE MADEIRA 100|     2,000|     172,00|       0,00|     0,00
+       0|              |          |      0-00                 |RABICO TOP ESTRELADO    |     2,000|       1,00|       0,00|     0,00
+       0|              |          |      0-00                 |RAQUETE MATA MOSCA      |     5,000|     125,00|       0,00|     0,00
+       0|              |          |      0-00                 |RAQUETES 954            |     1,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |REAB COMP PERM 30ML AZ  |     1,000|       6,80|       0,00|     0,00
+       0|              |          |      0-00                 |REAB QB COMPACCTOR AZ   |     1,000|      11,70|       0,00|     0,00
+       0|              |          |      0-00                 |REABASTECEDOR AZUL PILOT|     1,000|      14,90|       0,00|     0,00
+       0|              |          |      0-00                 |REABASTECEDOR PARA MARCA|     1,000|       7,50|       0,00|     0,00
+       0|              |          |      0-00                 |RECIBO COMER S/CANHOTO 5|     1,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |RECIBO COMERCIAL (DIPLOM|     3,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |RECIBO COMERCIAL C/ CANH|    14,000|      49,00|       0,00|     0,00
+       0|              |          |      0-00                 |RECIBO COMERCIAL S/CANHO|     8,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |RECIBO COMERCIAL SEM CAN|     3,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |RECIBO DE ALUGUEL COM CA|     2,000|       7,00|       0,00|     0,00
+       0|              |          |      0-00                 |RECIBO DE ALUGUEL SAO DO|     3,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |REFIL MARCADOR P/QUADRO |     6,000|      47,40|       0,00|     0,00
+       0|              |          |      0-00                 |REFIL MARCADOR P/QUADRO |     2,000|      15,80|       0,00|     0,00
+       0|              |          |      0-00                 |REFIL PILOT P/MARC QUAD |     2,000|      15,80|       0,00|     0,00
+       0|              |          |      0-00                 |REG WALEU 15CM CRISTAL  |     1,000|       1,30|       0,00|     0,00
+       0|              |          |      0-00                 |REGUA CLIPS NEW 20CM    |     1,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |REGUA CRISTAL 30MM WALEU|     6,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |REGUA PLAST 20CM WALEU  |     1,000|       1,50|       0,00|     0,00
+       0|              |          |      0-00                 |REGUA ROSA FLEXIVEL     |     1,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |SAC0 METAL. 45X59       |     2,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACO MET 30X44 NATAL NIC|     1,000|       2,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACO MET 45X59 CASUAL   |     5,000|      15,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACO MET 60X90 SORT     |     2,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACO METAL 25X37 SORTIDO|     3,000|       3,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACO METALCOR 20X29CM   |     6,000|       4,80|       0,00|     0,00
+       0|              |          |      0-00                 |SACO METALIZADO 15X22 VE|     2,000|       1,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACO METALIZADO 20X24 SO|     7,000|       5,60|       0,00|     0,00
+       0|              |          |      0-00                 |SACO METALIZADO 25X37 SO|    14,000|      14,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACO METALIZADO 35X54 SO|     1,000|       2,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACO PLASTICO OF 0,15MM |    42,000|      29,40|       0,00|     0,00
+       0|              |          |      0-00                 |SACO PLASTICO OFICIO C/4|     1,000|       0,60|       0,00|     0,00
+       0|              |          |      0-00                 |SACO PRESENTE 10X15 PRAT|    55,000|      11,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACO PRESENTE 30X45     |     9,000|      13,50|       0,00|     0,00
+       0|              |          |      0-00                 |SACOLA 1109PP           |     2,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |SACOLA SMILING A7067    |     2,000|      14,00|       0,00|     0,00
+       0|              |          |      0-00                 |SOMBRINHA 6603/04       |     1,000|      28,00|       0,00|     0,00
+       0|              |          |      0-00                 |SOMBRINHA 6605          |     2,000|      56,00|       0,00|     0,00
+       0|              |          |      0-00                 |SOMBRINHA6610           |     6,000|     108,00|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |SOMBRINHA6613B INFANTIL |     3,000|      80,00|       0,00|    20,00
+       0|              |          |      0-00                 |SQUEEZE PANT DEG 1LT    |     1,000|      17,50|       0,00|     0,00
+       0|              |          |      0-00                 |SUPORTE FITA ADES JOCAR |     1,000|      24,00|       0,00|     0,00
+       0|              |          |      0-00                 |TABUADA DO ESTUDANTE    |    38,000|      38,00|       0,00|     0,00
+       0|              |          |      0-00                 |TAL PEDIDO MESA CARBONO |     3,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |TALAO CONTROLE 3 CORPOS |     4,000|      18,00|       0,00|     0,00
+       0|              |          |      0-00                 |TALAO DE COMANDO 2 CORPO|     4,000|      14,00|       0,00|     0,00
+       0|              |          |      0-00                 |TEK BOND ARTESANATO 2 20|     1,000|      13,00|       0,00|     0,00
+       0|              |          |      0-00                 |TEK BOND ARTESANATO 3 20|     2,000|      26,00|       0,00|     0,00
+       0|              |          |      0-00                 |TELA 18X24 CORTI ARTE   |     1,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |TELA 20X20 CORTI ARTE   |     2,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |TELA 20X30 CORTI ARTI   |     2,000|      24,00|       0,00|     0,00
+       0|              |          |      0-00                 |TELA 24X30 CORTI ARTI   |     3,000|      42,00|       0,00|     0,00
+       0|              |          |      0-00                 |TELA PINT CORTIARTE 30X4|     2,000|      37,00|       0,00|     0,00
+       0|              |          |      0-00                 |TELA SOUZA 20X40CM      |     1,000|      16,90|       0,00|     0,00
+       0|              |          |      0-00                 |TEMP GUACHE 15ML VD FOLH|     1,000|       1,30|       0,00|     0,00
+       0|              |          |      0-00                 |TEMPERA GUACHE 15ML AMA |     1,000|       1,30|       0,00|     0,00
+       0|              |          |      0-00                 |TEMPERA GUACHE 15ML MARR|     1,000|       1,30|       0,00|     0,00
+       0|              |          |      0-00                 |TESOURA TRIS            |    10,000|      60,00|       0,00|     0,00
+       0|              |          |      0-00                 |TIN GUAC ACRILEX ABELHIN|     5,000|      32,50|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA CARIMBO RADEX PRET|     1,000|       6,80|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA DIMENSIONAL METALI|     1,000|       8,20|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA GUACHE 15ML ACRILE|     1,000|       1,30|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA GUACHE 15ML ACRILE|     5,000|       6,50|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA GUACHE 15ML ACRILE|     6,000|       7,80|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA GUACHE 15ML ACRILE|     2,000|       2,60|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA GUACHE 15ML MASTER|     1,000|       5,50|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA GUACHE BAMBINE 250|     4,000|      24,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA GUACHE KOALA C/6 1|     8,000|      48,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA MARCADOR P/QUA BCO|     1,000|       7,90|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA MARCADOR P/QUA BCO|     2,000|      15,80|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA PVA AMARELO OURO  |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA PVA BRANCA        |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA PVA MARROM        |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA PVA PRETO         |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA PVA ROSA 37ML 537 |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA PVA ROSA ESCURO   |     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA QUADRO BRANCO MARK|     1,000|       6,30|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA SPRAY MAK LOKO COR|     1,000|      13,80|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML AMAREL|     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML AZUL C|     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML AZUL M|     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML BRANCO|     5,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML CINZA |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML MAGENT|     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML PRETO |     5,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML ROSA  |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML SIENA |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML VD OLI|     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO 37ML VD PIN|     1,000|       6,00|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  Terca-Feira, 29 de Julho de 2025
+
+                                                       ITENS VENDIDOS NO PERIODO
+ /03/2025  a  31/03/2025
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Pedido|    NF/ECF    |Data      |Cliente                    |Descricao               |Qtidade   |Total Venda|Total Custo|Canc/Devo
+  ----------------------------------------------------------------------------------------------------------------------------------
+       0|              |          |      0-00                 |TINTA TECIDO 37ML VERDE |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA TECIDO INCOLOR 500|     2,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |TINTA VIOLETA           |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |TNT CORES               |    41,000|     123,00|       0,00|     0,00
+       0|              |          |      0-00                 |TOALHA ESCOLAR          |     1,000|       3,80|       0,00|     0,00
+       0|              |          |      0-00                 |TRATOR FAZENDA C/CARRETA|     1,000|      22,00|       0,00|     0,00
+       0|              |          |      0-00                 |TREINANDO ESCRITA LETRAS|     1,000|       5,50|       0,00|     0,00
+       0|              |          |      0-00                 |VALE S/CANHOTO 100F 0329|     1,000|       2,60|       0,00|     0,00
+       0|              |          |      0-00                 |VEIC AEROPORTO MT2049   |     1,000|      12,00|       0,00|     0,00
+       0|              |          |      0-00                 |VEICULO MT2448          |     1,000|       8,00|       0,00|     0,00
+       0|              |          |      0-00                 |VELA VULCAO COLORIDA JUP|     2,000|       9,00|       0,00|     0,00
+       0|              |          |      0-00                 |VENDE-SE TAMOIO         |     4,000|       2,40|       0,00|     0,00
+       0|              |          |      0-00                 |ZIPER METAL TAM 15 CORES|     1,000|       2,50|       0,00|     0,00
+  ----------------------------------------------------------------------------------------------------------------------------------
+
+  
+  
+  
+ 
+  Terca-Feira, 29 de Julho de 2025
+
+
