@@ -1,0 +1,2 @@
+txt/*.txt
+!txt/exemplo.txt
