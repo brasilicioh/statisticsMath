@@ -4,8 +4,9 @@ import csv
 arquivosTxt = ["Txsales.txt", "Txjan.txt", "Txfeb.txt", "Txmar.txt", "Txapr.txt", "Txmay.txt", "Txjun.txt", "Txjul.txt"]
 arquivosCsv = ["Cssales.csv", "Csjan.csv", "Csfeb.csv", "Csmar.csv", "Csapr.csv", "Csmay.csv", "Csjun.csv", "Csjul.csv"]
 
+
 for index in range(len(arquivosTxt)):
-    with open(arquivosTxt[index], "r", encoding="utf-8") as arquivoTxt:
+    with open(arquivosTxt[index], "r", encoding="latin1") as arquivoTxt:
         linhas = arquivoTxt.readlines()
 
     informacoes = []
