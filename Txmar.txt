@@ -193,12 +193,12 @@
        0|              |          |      0-00                 |CANETA BIC CRISTAL 1.6 P|     2,000|       4,40|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL AZ   |    36,000|      43,20|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|    56,000|      55,50|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|     6,000|       6,00|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|     5,000|       5,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRIT|     6,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRITO|     5,000|       5,00|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL PRETA|    38,000|      45,60|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|     3,000|       5,10|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|     3,000|       6,80|       0,00|     1,70
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|     1,000|       1,70|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRAA|     3,000|       6,80|       0,00|     1,70
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA1|     1,000|       1,70|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL VERDE|     3,000|       3,60|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL VERME|     7,000|       8,40|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC SHIMMERS FASH|     5,000|      11,50|       0,00|     0,00
@@ -542,9 +542,9 @@
        0|              |          |      0-00                 |MARCADOR QUADRO BRANCO V|     1,000|       7,00|       0,00|     0,00
        0|              |          |      0-00                 |MARCADOR RETRO PROGETOR |     1,000|       9,50|       0,00|     0,00
        0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |     5,000|      22,50|       0,00|     0,00
-       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |    17,000|     105,40|       0,00|     0,00
-       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |    11,000|      68,20|       0,00|     0,00
-       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |     2,000|      12,40|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR1 |    17,000|     105,40|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR2 |    11,000|      68,20|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR3 |     2,000|      12,40|       0,00|     0,00
        0|              |          |      0-00                 |MARCADOR TECIDO AZ ACRIL|     1,000|      10,30|       0,00|     0,00
        0|              |          |      0-00                 |MASSA BIS PORT LAP      |     2,000|      18,00|       0,00|     0,00
        0|              |          |      0-00                 |MASSA BISCUIT 90G POLYCO|     2,000|      17,00|       0,00|     0,00

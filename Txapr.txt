@@ -169,8 +169,8 @@
        0|              |          |      0-00                 |CANETA BIC CRISTAL 1.6 P|     9,000|      19,80|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL AZ   |    44,000|      52,80|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|    95,000|      94,50|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|    20,000|      20,00|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|     6,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRIT|    20,000|      20,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRITO|     6,000|       6,00|       0,00|     0,00
   ----------------------------------------------------------------------------------------------------------------------------------
 
   Terca-Feira, 29 de Julho de 2025
@@ -182,8 +182,8 @@
   ----------------------------------------------------------------------------------------------------------------------------------
        0|              |          |      0-00                 |CANETA BIC CRISTAL PRETA|    24,000|      28,80|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|    15,000|      25,50|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|     5,000|       8,50|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|     2,000|       3,40|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRAA|     5,000|       8,50|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA1|     2,000|       3,40|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL VERDE|     6,000|       7,20|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL VERME|     6,000|       7,20|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC SHIMMERS FASH|     5,000|      11,50|       0,00|     0,00
@@ -493,9 +493,9 @@
        0|              |          |      0-00                 |MARCADOR QUADRO BRANCO B|     3,000|      21,00|       0,00|     0,00
        0|              |          |      0-00                 |MARCADOR QUADRO BRANCO V|     1,000|       7,00|       0,00|     0,00
        0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |     4,000|      22,50|       0,00|     4,50
-       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |    10,000|      62,00|       0,00|     0,00
-       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |    12,000|      74,40|       0,00|     0,00
-       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |     2,000|      12,40|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR1 |    10,000|      62,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR2 |    12,000|      74,40|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR3 |     2,000|      12,40|       0,00|     0,00
        0|              |          |      0-00                 |MASCARA TRIP VINILFLEX S|     1,000|       1,00|       0,00|     0,00
        0|              |          |      0-00                 |MASSA BISCUIT 90G POLYCO|     1,000|       8,50|       0,00|     0,00
        0|              |          |      0-00                 |MASSA DE MODELAR ACRILEX|     4,000|      18,00|       0,00|     0,00

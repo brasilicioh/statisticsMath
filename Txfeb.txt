@@ -301,12 +301,12 @@
        0|              |          |      0-00                 |CANETA BIC CRISTAL 1.6 P|    10,000|      22,00|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL AZ   |   102,000|     122,20|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|   102,000|     102,00|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|    50,000|      50,00|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRI|    36,000|      36,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRIT|    50,000|      50,00|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ESCRITO|    36,000|      36,00|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL PRETA|    86,000|     103,20|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|    13,000|      22,10|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|    13,000|      22,10|       0,00|     0,00
-       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA|     4,000|       6,80|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRAA|    13,000|      22,10|       0,00|     0,00
+       0|              |          |      0-00                 |CANETA BIC CRISTAL ULTRA1|     4,000|       6,80|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL UP SO|     4,000|       8,00|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL VERDE|    17,000|      20,40|       0,00|     0,00
        0|              |          |      0-00                 |CANETA BIC CRISTAL VERME|    48,000|      57,60|       0,00|     0,00
@@ -723,9 +723,9 @@
        0|              |          |      0-00                 |MARCADOR QUADRO BRANCO V|     3,000|      21,00|       0,00|     0,00
        0|              |          |      0-00                 |MARCADOR RETRO PROGETOR |     1,000|       9,50|       0,00|     0,00
        0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |    11,000|      49,50|       0,00|     0,00
-       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |     5,000|      30,00|       0,00|     0,00
-       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |    13,000|      78,00|       0,00|     0,00
-       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR |     1,000|       6,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR1 |     5,000|      30,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR2 |    13,000|      78,00|       0,00|     0,00
+       0|              |          |      0-00                 |MARCADOR RETRO PROJETOR3 |     1,000|       6,00|       0,00|     0,00
        0|              |          |      0-00                 |MASSA DE MODELAR ACRILEX|     5,000|      22,50|       0,00|     0,00
        0|              |          |      0-00                 |MASSA DE MODELAR C12 180|     3,000|      27,00|       0,00|     0,00
        0|              |          |      0-00                 |MASSA DE MODELAR KOALA G|    14,000|      98,00|       0,00|     0,00
